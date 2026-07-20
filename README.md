@@ -22,7 +22,7 @@ Welcome to my personal portfolio repository! This website represents my journey 
 
 ## 🌐 Live Portfolio
 
-> **🔗 Portfolio:** https://your-portfolio-link.com
+> **🔗 Portfolio:** https://mkb07.me
 
 ---
 
