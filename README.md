@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/portfolio-preview.gif" width="100%" alt="Portfolio Preview"/>
+</p>
 
 <h1 align="center">🌐 Mirza's Portfolio</h1>
 
