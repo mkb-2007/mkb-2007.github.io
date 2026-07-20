@@ -116,45 +116,17 @@ This portfolio serves as a platform to:
 
 ---
 
-# 📸 Preview
 
-> Add screenshots or a GIF of your portfolio here.
-
-```
-portfolio-preview.png
-```
-
----
-
-# ⚙️ Getting Started
-
-Clone the repository
-
-```bash
-git clone https://github.com/your-username/portfolio.git
-```
-
-Navigate to the folder
-
-```bash
-cd portfolio
-```
-
-Run the project
-
-Simply open `index.html` in your browser.
-
----
 
 # 🤝 Let's Connect
 
-🌐 Portfolio: https://your-portfolio-link.com
+🌐 Portfolio: [http://mkb07.me]
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn:  [https://www.linkedin.com/in/mkb07]
 
-💻 GitHub: https://github.com/your-username
+💻 GitHub:    [https://github.com/mkb-2007]
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: [mirzakareembaig2007@gmail.com](mailto:mirzakareembaig2007@gmail.com)
 
 ---
 
